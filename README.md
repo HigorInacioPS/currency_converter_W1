@@ -1,4 +1,4 @@
-# 💱 Conversor de Moedas
+# 💱 Conversor de Moedas - Projeto 01
 
 Este projeto é um **Conversor de Moedas** simples e eficiente, que consome dados em tempo real a partir da [API pública Frankfurter](https://www.frankfurter.app). O projeto foi desenvolvido em duas versões distintas:
 
